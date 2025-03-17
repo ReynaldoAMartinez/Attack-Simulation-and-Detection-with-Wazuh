@@ -21,6 +21,10 @@ Simulating an end-to-end Cyber attack and implementing different detections thro
 
 <h2>Program walk-through:</h2>
 
+![Alt Text](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/blob/main/Project-X%20(3).png))
+
+
+
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
