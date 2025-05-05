@@ -26,11 +26,13 @@ The first step was to build an Enterprise Network with the following configurati
 ![Alt Text](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/blob/main/Project-X%20(3).png))
 
 
-A Windows Server 2025: Used as the directory services server, acting as the central hub for network connections.
-A Windows 11 Enterprise: Used to simulate a business user.
-An Ubuntu Desktop 22.04: Used to simulate an enterprise software development environment.
-A Security Onion: Used to detect, investigate, and respond to network threats and incidents.
-An Ubuntu Server 2022: Used as the email server.
-Kali Linux: Used to do the attack simulation against the enterprise network.
+-<b>A Windows Server 2025: Used as the directory services server, acting as the central hub for network connections.</b>
+-<b>A Windows 11 Enterprise: Used to simulate a business user.</b>
+-<b>An Ubuntu Desktop 22.04: Used to simulate an enterprise software development environment.</b>
+-<b>A Security Onion: Used to detect, investigate, and respond to network threats and incidents.</b>
+-<b>An Ubuntu Server 2022: Used as the email server.</b>
+-<b>Kali Linux: Used to do the attack simulation against the enterprise network.</b>
+
+
 
 
