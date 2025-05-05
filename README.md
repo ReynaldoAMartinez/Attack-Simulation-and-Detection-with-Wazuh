@@ -1,4 +1,4 @@
-# Attack-Simulation-and-Detection-with-Wazuh
+Attack-Simulation-and-Detection-with-Wazuh
 
 
 <h2>Description</h2>
