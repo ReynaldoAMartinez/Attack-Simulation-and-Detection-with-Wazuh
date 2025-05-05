@@ -9,7 +9,7 @@ Simulating an end-to-end Cyber attack and implementing different detections thro
 <h2>Environments Used </h2>
 
 
-
+- <b>Virtual Box</b>
 - <b>Windows Server 2025</b>
 - <b>Windows 11 Enterprise</b> 
 - <b>Ubuntu Server 22.04</b>
@@ -20,6 +20,8 @@ Simulating an end-to-end Cyber attack and implementing different detections thro
 
 
 <h2>Program walk-through:</h2>
+
+First step was to build a NAT Network with the following configuration:
 
 ![Alt Text](https://github.com/ReynaldoAMartinez/Attack-Simulation-and-Detection-with-Wazuh/blob/main/Project-X%20(3).png))
 
