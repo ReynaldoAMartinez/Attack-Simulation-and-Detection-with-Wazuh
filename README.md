@@ -1,5 +1,5 @@
 Attack-Simulation-and-Detection-with-Wazuh
-
+<!-- 
 
 <h2>Description</h2>
 Simulating an end-to-end Cyber attack and implementing different detections throughout the life cycle to show how a Cyber attack is detected
@@ -34,5 +34,5 @@ The first step was to build an Enterprise Network with the following configurati
 -<b>Kali Linux: Used to do the attack simulation against the enterprise network.</b>
 
 
-
+-->
 
