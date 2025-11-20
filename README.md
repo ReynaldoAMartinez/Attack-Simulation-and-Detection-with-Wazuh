@@ -1,4 +1,7 @@
 Attack-Simulation-and-Detection-with-Wazuh
+
+<img width="1024" height="1024" alt="UnderConstruction" src="https://github.com/user-attachments/assets/f174b8fc-e933-46be-bffe-1033d22e8cde" />
+
 <!-- 
 
 <h2>Description</h2>
